@@ -1,3 +1,3 @@
-!#/bin/bash
+#!/bin/bash
 mkdir testlib
 mkdir testtest
